@@ -1,8 +1,8 @@
 import React from "react";
-import Display from "./components/Display";
-
+import Home from "./components/pages/Home";
+import './App.css';
 function App() {
-  return <Display />;
+  return <Home />;
 }
 
 export default App;

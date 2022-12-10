@@ -74,8 +74,25 @@
     margin-top: 1rem;
     width:100%;
     background-image: url(dummyimage.jpg);
+    opacity: 0.7; 
+    transition: opacity var(--transition-speed)
   }
   
+  .project .image-link img:hover{
+    opacity: 1.2;
+  }
+
+  .link{
+    text-decoration: none;
+    color: var(--whitecol);
+    
+    transition: color var(--transition-speed);
+  }
+
+  .link:hover{
+    color:var(--orangecol)
+  }
+
   .highlight-project .image-link img{
     margin-top: 1rem;
     width:100%;

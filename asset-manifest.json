@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.118bd0ab.css",
+    "main.js": "/PortfolioReact/static/js/main.7d30b326.js",
+    "static/media/dummyimage.jpg": "/PortfolioReact/static/media/dummyimage.8147c9fa35c3054038ab.jpg",
+    "static/media/WeatherAppImg.PNG": "/PortfolioReact/static/media/WeatherAppImg.6237651b20b57ea54487.PNG",
+    "static/media/CommandLineImg.PNG": "/PortfolioReact/static/media/CommandLineImg.7be6333db75f6938500f.PNG",
+    "static/media/PeakPerformanceImg.PNG": "/PortfolioReact/static/media/PeakPerformanceImg.c0daa7d62f7d177cace5.PNG",
+    "static/media/EightBallImg.PNG": "/PortfolioReact/static/media/EightBallImg.bd40c57dc892676a820c.PNG",
+    "static/media/resume.pdf": "/PortfolioReact/static/media/resume.9d74e7e871fc60176660.pdf",
+    "index.html": "/PortfolioReact/index.html",
+    "main.118bd0ab.css.map": "/PortfolioReact/static/css/main.118bd0ab.css.map",
+    "main.7d30b326.js.map": "/PortfolioReact/static/js/main.7d30b326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118bd0ab.css",
+    "static/js/main.7d30b326.js"
+  ]
+}

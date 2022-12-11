@@ -63,11 +63,16 @@
   .highlight-project{
     padding: 1rem;
     border-radius: 1rem;
-    
+    justify-content: center;
     margin: 1rem;
     background-color: var(--blackcol);
     width: 40%;
     border: 1rem solid var(--blackcol2);
+  }
+
+  #chess{
+    max-width: 75%;
+    max-height:75%;
   }
   
   .project .image-link img{

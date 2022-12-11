@@ -1,5 +1,6 @@
 import React from 'react';
 import dummyimage from '../dummyimage.jpg';
+import ChessGameImg from '../assets/ChessGameImg.PNG'
 import PeakPerformanceImg from '../assets/PeakPerformanceImg.PNG'
 
 export default function ProjectHighlight(props) {
@@ -20,12 +21,12 @@ export default function ProjectHighlight(props) {
             </card>
             <card class="highlight-project">
                 <div class="card-header">
-                    <h2><a class="link" href="https://github.com/mramazzini/Command-Line-Employee-System">Employee Management System</a></h2>
-                    <h2><a class="link" href="https://github.com/mramazzini/Command-Line-Employee-System">Github Link</a></h2>
+                    <h2><a class="link" href="https://github.com/mramazzini/Chess-Java">Java Chess Game</a></h2>
+                    <h2><a class="link" href="https://github.com/mramazzini/Chess-Java">Github Link</a></h2>
                 </div>
                 <div class="headline"></div>
-                <a class="image-link" id="img1" href="https://github.com/mramazzini/Command-Line-Employee-System">
-                    <img src="./dummyimage.jpg" alt="text describing the image" />
+                <a class="image-link" id="img1" href="https://github.com/mramazzini/Chess-Java">
+                    <img id="chess" src={ChessGameImg} alt="text describing the image" />
                 </a>
             </card>
         </div>
